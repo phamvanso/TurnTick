@@ -202,8 +202,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hand: {fileID: 2032657361}
-  rotateDuration: 1
-  targetAngle: -180
+  rotateSpeed: 90
 --- !u!212 &411503533
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -499,8 +498,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hand: {fileID: 2032657361}
-  rotateDuration: 1
-  targetAngle: -180
+  rotateSpeed: 90
 --- !u!58 &614278265
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -625,8 +623,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hand: {fileID: 2032657361}
-  rotateDuration: 1
-  targetAngle: -180
+  rotateSpeed: 90
 --- !u!212 &1127376852
 SpriteRenderer:
   m_ObjectHideFlags: 0
