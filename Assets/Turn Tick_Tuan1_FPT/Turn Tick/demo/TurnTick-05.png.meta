@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TurnTick-05_0: -4771544424306432595
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
